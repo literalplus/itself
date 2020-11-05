@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 d780de2a053854f7c0c91b8342092224c3793df3 Philipp Nowak <git@lit.plus> 1604586322 +0100	commit (initial): Add itself
 d780de2a053854f7c0c91b8342092224c3793df3 a4bba40726041a8f760c9046125d9230ce55ee0a Philipp Nowak <git@lit.plus> 1604586383 +0100	commit: Add itself to itself
 a4bba40726041a8f760c9046125d9230ce55ee0a a4bba40726041a8f760c9046125d9230ce55ee0a Philipp Nowak <git@lit.plus> 1604586412 +0100	Branch: renamed refs/heads/master to refs/heads/main
+a4bba40726041a8f760c9046125d9230ce55ee0a fa8b9b72d4c5d830072a82cc08b9965b20da63c0 Philipp Nowak <git@lit.plus> 1604593234 +0100	commit: Add itself but better
