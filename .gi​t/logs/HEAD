@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 78bfc50aff074d3475040f26490173d1b9189201 Philipp Nowak <git@lit.plus> 1604596430 +0100	clone: from github.com:literalplus/itself.git
+78bfc50aff074d3475040f26490173d1b9189201 7eb087f45c8e5dd40981319b0a806c734d83c1c3 Philipp Nowak <git@lit.plus> 1604596487 +0100	rebase (start): checkout 7eb087f45c8e5dd40981319b0a806c734d83c1c3
+7eb087f45c8e5dd40981319b0a806c734d83c1c3 7f8a8b2d92f03884bbbee75b4c3e19c9788b31d4 Philipp Nowak <git@lit.plus> 1604596487 +0100	rebase: fast-forward
+7f8a8b2d92f03884bbbee75b4c3e19c9788b31d4 b95a63d90537319fa07839347e77fd722202f98d Philipp Nowak <git@lit.plus> 1604596487 +0100	rebase (reword): blue sus
+b95a63d90537319fa07839347e77fd722202f98d f1bb69b4595ee6129f80605e13110ef6065ba08f Philipp Nowak <git@lit.plus> 1604596513 +0100	rebase (fixup): # This is a combination of 2 commits.
+f1bb69b4595ee6129f80605e13110ef6065ba08f 78821e17389380de29392ab5edbbd05e28cdcef8 Philipp Nowak <git@lit.plus> 1604596513 +0100	rebase (fixup): blue sus
+78821e17389380de29392ab5edbbd05e28cdcef8 78821e17389380de29392ab5edbbd05e28cdcef8 Philipp Nowak <git@lit.plus> 1604596513 +0100	rebase (finish): returning to refs/heads/main

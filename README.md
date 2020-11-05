@@ -7,11 +7,7 @@ We can't hard-link directories and git can handle symbolic links properly.
 However what we __can__ do is move `.git` to a similarly-named folder
 and symlink the actual `.git` to that.
 
-Also, you probably noticed, but that's not an actual i.
-
-```
-ℹ u+2139 INFORMATION SOURCE
-```
+Also, you probably did not notice, but that's a Zero-Width Space between the i and the t.
 
 # License
 
